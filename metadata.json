@@ -1,0 +1,6 @@
+{
+  "name": "SQCDP Manufacturing Dashboard",
+  "description": "A real-time manufacturing dashboard with SQCDP metrics (Safety, Quality, Cost, Delivery, People), live updates via SSE, and browser notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
